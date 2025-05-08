@@ -1,0 +1,7 @@
+FastAPI
+Uvicorn
+LiteLLM
+Starlette or similar for static files
+JavaScript (for front-end, possibly using a framework or vanilla JS)
+HTML/CSS for UI
+requests or httpx for API calls
